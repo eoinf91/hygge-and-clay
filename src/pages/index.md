@@ -1,9 +1,9 @@
 ---
-templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
+templateKey: index-page
+products:
+  productsTitle: Latest Products
 mainpitch:
   title: Why Kaldi
   description: >
@@ -11,11 +11,6 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -51,6 +46,19 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
+pageHead:
+  title: Hygge and Clay
+  subTitle: Add some colours to your life with our handcrafrated jewellery made
+    with polymer clay!
+  image: /img/header_arch_img.jpg
+about:
+  aboutTitle: Hey there,
+  aboutContent: "I am Giorgi. I have created Hygge and Clay in 2020. During the
+    first lockdown, I decided to give it a try and set up my new creative space.
+    Hygge and Clay was created with the aim to bring my art to life. After
+    traveling in South America and Africa, I understood the importance of bright
+    colours which I try to recreate when I make my pieces. "
+title: Great coffee with a conscience
 main:
   heading: Great coffee with no compromises
   description: >
@@ -67,4 +75,9 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+image: /img/home-jumbotron.jpg
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 ---
